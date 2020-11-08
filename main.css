@@ -70,7 +70,7 @@ header nav li:last-child{
   min-height: 535px;
   color: #fff;
   text-align: center;
-  background-image: url(assets/img/image.png);
+  background-image: url(sets/img/image.png);
   background-color:#4F525C;
   margin-bottom: 50px
 }
